@@ -12,7 +12,7 @@ RAM_SAVE column INPUT 0
 ADDi 1 column column
 IF_LESSii column 16 saveToRAM
 
-ADDii 1 1 height
+ADDii 1 0 height
 label start
 ADDi 1 height height
 
